@@ -23,7 +23,7 @@ production-ready [Gunicorn](https://gunicorn.org/) server when deploying the app
 * Code editor: You can <a href="https://code.visualstudio.com/download" target="_blank">download and install VS code</a>
   here.
 * AWS Account
-* Python version between 3.9 and more Check the current version using:
+* Python version between 3.7 and more Check the current version using:
 
 ```bash
 #  Mac/Linux/Windows 
