@@ -1,3 +1,14 @@
+# Project submission details
+
+CLUSTER-IP
+> 10.100.159.159
+
+EXTERNAL-IP
+> a1a8791c7e4e14f7597b79938d56ea4b-1934970745.us-west-1.elb.amazonaws.com
+
+PORT(S)
+> 80:32745/TCP
+
 # Deploying a Flask API
 
 This is the project starter repo for the course Server Deployment, Containerization, and Testing.
