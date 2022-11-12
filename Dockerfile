@@ -1,6 +1,6 @@
-# Use the `python:3.10.6` as a source image from the Amazon ECR Public Gallery
+# Use the `python:3.9` as a source image from the Amazon ECR Public Gallery
 # We are not using `python:3.7-slim` from Dockerhub because it has put a  pull rate limit.
-FROM public.ecr.aws/docker/library/python:3.10.6
+FROM public.ecr.aws/docker/library/python:3.9
 
 # Set up an app directory for your code
 COPY . /app
